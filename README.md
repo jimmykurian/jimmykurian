@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on an Onion Architecture PoC with CQRS and MediatR
-- 🌱 I’m currently learning Ruby on Rails
+- 🌱 I’m currently learning Kubernetes.
 - 👯 I’m looking to collaborate on FinTech OSS
 - 💬 Ask me about Clean Architecture, Domain Driven Design, and Microservices
 - 📫 How to reach me: www.jimmykurian.me
